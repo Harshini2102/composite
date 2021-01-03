@@ -1,0 +1,77 @@
+.aboutus{
+    height:100vh;
+    padding:60px 200px 0px 200px;
+}
+
+.aboutus .about-title{
+    text-align: center;
+}
+
+h1,h2,h3{
+    color:#333;
+    font-weight: 400;
+    padding-bottom: 20px;
+}
+
+p{
+    font-size:13px;
+    line-height: 1rem;
+}
+
+h2{
+    font-size: 24px;
+}
+
+h3{
+    font-weight: 700;
+}
+
+.aboutus .about-content{
+    margin-top: 50px;
+}
+
+.about-content{
+    display:inline-block;
+    margin-right: 20px;
+}
+
+.container {
+    width: 100%;
+    background-color:#999;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border:1px solid;
+    border-radius: 50px;
+}
+
+.skills{
+    padding-top: 3px;
+    padding-bottom: 3px;
+   
+}
+
+.html5 {width: 100%; background-color: #ffa400;}
+.css3 {width: 100%; background-color: #ffa400;}
+.photpshop {width: 80%; background-color: #ffa400;}
+.jquery {width: 90%; background-color: #ffa400;}
+
+.skillbar{
+    display:inline-block;
+    margin-top: 50px;
+    width:450px;
+    position:absolute;
+}
+
+.persentage{
+    float:right;
+}
+
+.skill{
+    float:left;
+}
+
+h4{
+    font-size: small;
+    color:#333;
+    padding:10px;
+}

@@ -1,0 +1,56 @@
+.ourteam{
+    height:100vh;
+    padding:60px 200px 0px 200px;
+    background: #F9F9F9;
+}
+
+.ourteam .ourteam-title{
+    text-align: center;
+}
+
+h1{
+    color:#333;
+    font-weight: 400;
+    padding-bottom: 20px;
+}
+
+p{
+    font-size:13px;
+    line-height: 1rem;
+}
+
+
+img{
+    height:40%;
+    width:22%;
+    margin-top: 50px;
+    margin-right: 20px;
+}
+
+h2{
+    padding:10px 20px 10px 20px;
+    background-color: white;
+    margin-top: 20px;
+    margin-right: 0px;
+    color:#ffa400;
+}
+
+h5{
+    margin-top: 20px;
+    color:#333;
+}
+
+img:hover
+{
+	border-radius: 50%;
+    transform: scale(0.9);
+    transition: all 0.4s ease-in-out;
+	opacity: 0.7;
+}
+
+.column {
+    float: left;
+    width: 25%;
+    padding: 5px;
+    text-align: center;
+  }

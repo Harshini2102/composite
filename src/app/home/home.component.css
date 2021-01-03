@@ -1,0 +1,37 @@
+.slider{
+	height:110vh;
+}
+
+.main-navigation{
+	height:70px;
+}
+
+.slider .slides img {
+	width: 100%;
+	display: block;
+}
+
+.main-navigation ul{
+	list-style: none;
+	float:right;
+	margin-top: 20px;
+	margin-right: 100px;
+}
+
+.main-navigation ul li{
+	display:inline-block;
+	font-weight: bold;
+	margin-top: -20px;
+	padding:20px;
+}
+
+.main-navigation ul a{
+	text-decoration: none;
+	color:black;
+}
+
+.main-navigation li:hover{
+	background-color: #ffa400;
+	color:#fff;
+	cursor: pointer;
+}
